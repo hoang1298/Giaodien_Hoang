@@ -1,0 +1,54 @@
+#body{
+    font-family: 'Times New Roman', Times, serif;
+}
+#a {
+    background-color: brown;
+    text-align: left;
+    color: white;
+    padding: 35px;
+}
+#row1 {
+    list-style-type: none;
+    padding:0%;
+    overflow: hidden;
+    background-color: rgb(59, 59, 161);
+}
+#col1 {
+    display: block;
+    color: white;
+    text-align:center;
+    padding: 15px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: yellow;
+}
+#row2 {
+    padding:20px;
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:10px;
+    text-align: center;
+}
+th:hover {
+    background-color: rgb(187, 197, 224);
+}
+td:hover {
+    background-color:rgb(187, 197, 224) ;
+}
+th {
+    background-color:rgb(59, 59, 161) ;
+    color: white;
+}
+td {
+    background-color: rgb(201, 229, 236);
+}
+#red {
+    color: red;
+}
+
+
+
